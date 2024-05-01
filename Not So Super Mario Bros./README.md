@@ -1,6 +1,7 @@
 Author: Kali Cajala
 Date: 3/13/24
 Assignment: Not So Super Mario Bros.
+
 Files Included:
 - Enemy.h
 - Enemy.cpp
@@ -15,6 +16,7 @@ Files Included:
 - main.cpp
 - input.txt
 - output.txt (an example of one of my outputs)
+
 Resources Used:
 - Youtube Video: "Generating Random Numbers in C++: Exploring rand(), srand(), and time() Functions [Tutorial][8]" :
     https://www.youtube.com/watch?v=-NA_B_vJP14
@@ -29,5 +31,6 @@ Resources Used:
     - used for:
         - debugging
         - help with memory allocation/deallocation
+
 Known Errors: N/A
 
